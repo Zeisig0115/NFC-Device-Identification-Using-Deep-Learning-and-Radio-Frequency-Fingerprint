@@ -1,6 +1,8 @@
 # NFC-Device-Identification-Using-Deep-Learning-and-Radio-Frequency-Fingerprint
 For anybody interested in this project please feel free to read the project report.
 
+## Code Description:
+
 **[models]** networks employed in this project
 
 **[ce_train]** script to train the networks with Cross-Entropy loss
